@@ -8,7 +8,7 @@
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
   <body>
-    <h1 style="text-align: center ;font-family:cursive;">Welcome to My Portfolio</h1>
+    <h1 style="text-align: center ;font-family:cursive;">#Welcome to My Portfolio</h1>
     <h4 style="text-align: center; font-family:monospace;">Sol Pulido</h4>
     <h4 style="text-align: center; font-family:monospace;">05/31/24</h4>
     <h4 style="text-align: center; font-family:monospace;">Programming & Prototyping -Mrs. Ramirez </h4>
