@@ -28,7 +28,7 @@
     <a href="project.html">See Projects</a>
     </div>
 
-  <h2> Additional INFO</h2>
+  <h2> Additional INFO WBL HOURS FOR 2023-2024</h2>
     <div>
       <img src="wblH.png" alt="wblH" width="700" height="400">"
     </div>
