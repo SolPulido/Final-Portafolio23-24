@@ -15,7 +15,7 @@
     
  <div class="container"<p id="aboutMe">
       <h2 style="text-align: center; color: gold; font-family:fantasy;font-size: 30px;">About Me</h2>
-      <img style="margin-left: 560px;" src="yo.png" id="yo" alt="yo" width="400" height="450"">
+      <img style="margin-left: 590px;" src="yo.png" id="yo" alt="yo" width="400" height="450"">
       <center style="font-family: monospace; font-size: 15px;">
     Hey! I am a student at Thomas A Edison High School,This is the last Portafolio for our 2024 school year.
     <br>
